@@ -15,6 +15,7 @@ class ClientKey{
   String secret = 'YOUR_SECRET';
 }
 ```
+for more expalanations you could checkout this (https://t.co/Rjuvq9IWpq?amp=1)
 
 
 
