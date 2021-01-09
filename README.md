@@ -6,10 +6,14 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-class ClientKey{
+```
+pip class ClientKey{
   String clientId = 'AdIiy8-53FedoAzGmglDxJciAKj-2-FknBRMhGIun9DA_2s8KD1qXG41Hp7jzjA-dp8ybMjKyAm7ji0W';
   String secret = 'EDkX3B3QvmV5jhH14YtjUquhDwtMHAN88DMljZmJBemGtCsObiA7yZijsO86HQwOvFAsdicgRpm4XYrL';
 }
+```
+
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
