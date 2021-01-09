@@ -6,10 +6,13 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+Before using this file, your would need to create a paypal developer account, after that create a project in which you would be given a client_id and a secret_key,
+you are to replace it with this code in the keys.dart file
+
 ```
-pip class ClientKey{
-  String clientId = 'AdIiy8-53FedoAzGmglDxJciAKj-2-FknBRMhGIun9DA_2s8KD1qXG41Hp7jzjA-dp8ybMjKyAm7ji0W';
-  String secret = 'EDkX3B3QvmV5jhH14YtjUquhDwtMHAN88DMljZmJBemGtCsObiA7yZijsO86HQwOvFAsdicgRpm4XYrL';
+class ClientKey{
+  String clientId = 'YOUR_CLIENT_ID';
+  String secret = 'YOUR_SECRET';
 }
 ```
 
